@@ -3,4 +3,4 @@ lab git 1
 ### co
 ## kol
 # wiek
-![image](C:\Users\ciszak\Pictures\Screenshots\WSZiB.png)
+![image](https://suszi.wszib.edu.pl/suszi-web/img/susziani.gif)
